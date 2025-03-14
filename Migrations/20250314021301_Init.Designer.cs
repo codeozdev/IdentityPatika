@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace IdentityPatika.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20250313135031_Init")]
+    [Migration("20250314021301_Init")]
     partial class Init
     {
         /// <inheritdoc />
