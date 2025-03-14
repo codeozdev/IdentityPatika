@@ -4,7 +4,6 @@ namespace IdentityPatika.ViewModel;
 
 public class RegisterViewModel
 {
-    public int Id { get; set; }
 
     [Required]
     [EmailAddress]

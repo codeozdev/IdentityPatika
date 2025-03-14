@@ -262,3 +262,5 @@
 /home/ozudev/RiderProjects/IdentityPatika/IdentityPatika/obj/Debug/net9.0/IdentityPatika.genruntimeconfig.cache
 /home/ozudev/RiderProjects/IdentityPatika/IdentityPatika/obj/Debug/net9.0/ref/IdentityPatika.dll
 /home/ozudev/RiderProjects/IdentityPatika/IdentityPatika/bin/Debug/net9.0/Scalar.AspNetCore.dll
+/home/ozudev/RiderProjects/IdentityPatika/IdentityPatika/obj/Debug/net9.0/IdentityPatika.sourcelink.json
+/home/ozudev/RiderProjects/IdentityPatika/IdentityPatika/bin/Debug/net9.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
